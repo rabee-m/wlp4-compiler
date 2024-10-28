@@ -1,5 +1,9 @@
 # WLP4 Compiler
 
+## Overview of the WLP4 Compiler
+
+This compiler converts WLP4 code into MIPS assembly language by handling various processes, including scanning, parsing, context-sensitive analysis, and code generation. The goal is to fully translate WLP4 programs into MIPS assembly. The source code of this project is private (due to university regulations); please contact mrabee@uwaterloo.ca if you wish to view it.
+
 ## What is WLP4?
 
 WLP4 (pronounced "Wool P Four") is a streamlined version of C++ that stands for "Waterloo, Language, Plus, Pointers, Plus, Procedures." It incorporates functions, integers, pointers, arrays, conditionals, and loops, and is taught as part of the ["Foundations of Sequential Programs"](https://www.student.cs.uwaterloo.ca/~cs241) course at the University of Waterloo.
@@ -7,10 +11,6 @@ WLP4 (pronounced "Wool P Four") is a streamlined version of C++ that stands for 
 To learn more about WLP4, check out:
 - [WLP4 Programming Language Tutorial](https://www.student.cs.uwaterloo.ca/~cs241/wlp4/WLP4tutorial.html)
 - [WLP4 Programming Language Specification](https://www.student.cs.uwaterloo.ca/~cs241/wlp4/WLP4.html)
-
-## Overview of the WLP4 Compiler
-
-This compiler converts WLP4 code into MIPS assembly language by handling various processes, including scanning, parsing, context-sensitive analysis, and code generation. The goal is to fully translate WLP4 programs into MIPS assembly. The source code of this project is private (due to university regulations); please contact mrabee@uwaterloo.ca if you wish to view it.
 
 ### Compilation Phases:
 
